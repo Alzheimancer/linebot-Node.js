@@ -1,6 +1,7 @@
 # linebot-Node.js
 
-[![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image]][downloads-url]
-[![NPM Dependencies][dependencies-image]][dependencies-url]
-[![Build][travis-image]][travis-url]
+# About LINE Messaging API
+
+Please refer to the official API documents for details.
+- Developer Documents - https://developers.line.me/messaging-api/overview
+- API Reference - https://devdocs.line.me/en/#messaging-api
